@@ -1,36 +1,36 @@
-,0001,SIGLA,NOME,DEFERIMENTO,PRES. NACIONAL ,Nº DA LEGENDA,tseurl
-0,1,PMDB,PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO,30.6.1981,ROMERO JUCÁ,15,http://www.tse.jus.br/partidos/partidos-politicos/partido-do-movimento-democratico-brasileiro
-1,2,PTB,PARTIDO TRABALHISTA BRASILEIRO,3.11.1981,ROBERTO JEFFERSON MONTEIRO FRANCISCO,14,http://www.tse.jus.br/partidos/partidos-politicos/partido-trabalhista-brasileiro
-2,3,PDT,PARTIDO DEMOCRÁTICO TRABALHISTA,10.11.1981,CARLOS LUPI,12,http://www.tse.jus.br/partidos/partidos-politicos/partido-democratico-trabalhista
-3,4,PT,PARTIDO DOS TRABALHADORES,11.2.1982,RUI GOETHE DA COSTA FALCAO,13,http://www.tse.jus.br/partidos/partidos-politicos/partido-dos-trabalhadores
-4,5,DEM,DEMOCRATAS,11.9.1986,JOSÉ AGRIPINO MAIA,25,http://www.tse.jus.br/partidos/partidos-politicos/democratas
-5,6,PCdoB,PARTIDO COMUNISTA DO BRASIL,23.6.1988,LUCIANA BARBOSA DE OLIVEIRA SANTOS,65,http://www.tse.jus.br/partidos/partidos-politicos/partido-comunista-do-brasil
-6,7,PSB,PARTIDO SOCIALISTA BRASILEIRO,1°.7.1988,CARLOS ROBERTO SIQUEIRA DE BARROS,40,http://www.tse.jus.br/partidos/partidos-politicos/partido-socialista-brasileiro
-7,8,PSDB,PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA,24.8.1989,AÉCIO NEVES DA CUNHA,45,http://www.tse.jus.br/partidos/partidos-politicos/partido-da-social-democracia-brasileira
-8,9,PTC,PARTIDO TRABALHISTA CRISTÃO,22.2.1990,DANIEL S. TOURINHO,36,http://www.tse.jus.br/partidos/partidos-politicos/partido-trabalhista-cristao
-9,10,PSC,PARTIDO SOCIAL CRISTÃO,29.3.1990,EVERALDO DIAS PEREIRA,20,http://www.tse.jus.br/partidos/partidos-politicos/partido-social-cristao
-10,11,PMN,PARTIDO DA MOBILIZAÇÃO NACIONAL,25.10.1990,ANTONIO CARLOS BOSCO MASSAROLLO,33,http://www.tse.jus.br/partidos/partidos-politicos/partido-da-mobilizacao-nacional
-11,12,PRP,PARTIDO REPUBLICANO PROGRESSISTA,29.10.1991,OVASCO ROMA ALTIMARI RESENDE,44,http://www.tse.jus.br/partidos/partidos-politicos/partido-republicano-progressista
-12,13,PPS,PARTIDO POPULAR SOCIALISTA,19.3.1992,ROBERTO JOÃO PEREIRA FREIRE,23,http://www.tse.jus.br/partidos/partidos-politicos/partido-popular-socialista
-13,14,PV,PARTIDO VERDE,30.9.1993,JOSÉ LUIZ DE FRANÇA PENNA,43,http://www.tse.jus.br/partidos/partidos-politicos/partido-verde
-14,15,PTdoB,PARTIDO TRABALHISTA DO BRASIL,11.10.1994,LUIS HENRIQUE DE OLIVEIRA RESENDE,70,http://www.tse.jus.br/partidos/partidos-politicos/partido-trabalhista-do-brasil
-15,16,PP,PARTIDO PROGRESSISTA,16.11.1995,CIRO NOGUEIRA LIMA FILHO,11,http://www.tse.jus.br/partidos/partidos-politicos/partido-progressista
-16,17,PSTU,PARTIDO SOCIALISTA DOS TRABALHADORES UNIFICADO,19.12.1995,JOSÉ MARIA DE ALMEIDA,16,http://www.tse.jus.br/partidos/partidos-politicos/partido-socialista-dos-trabalhadores-unificado
-17,18,PCB,PARTIDO COMUNISTA BRASILEIRO,9.5.1996,EDMILSON SILVA COSTA*,21,http://www.tse.jus.br/partidos/partidos-politicos/partido-comunista-brasileiro
-18,19,PRTB,PARTIDO RENOVADOR TRABALHISTA BRASILEIRO,18.2.1997,JOSÉ LEVY FIDELIX DA CRUZ,28,http://www.tse.jus.br/partidos/partidos-politicos/partido-renovador-trabalhista-brasileiro
-19,20,PHS,PARTIDO HUMANISTA DA SOLIDARIEDADE,20.3.1997,EDUARDO MACHADO E SILVA RODRIGUES,31,http://www.tse.jus.br/partidos/partidos-politicos/partido-humanista-da-solidariedade
-20,21,PSDC,PARTIDO SOCIAL DEMOCRATA CRISTÃO,5.8.1997,JOSÉ MARIA EYMAEL,27,http://www.tse.jus.br/partidos/partidos-politicos/partido-social-democrata-cristao
-21,22,PCO,PARTIDO DA CAUSA OPERÁRIA,30.9.1997,RUI COSTA PIMENTA,29,http://www.tse.jus.br/partidos/partidos-politicos/partido-da-causa-operaria
-22,23,PODE,PODEMOS,2.10.1997,RENATA HELLMEISTER DE ABREU,19,http://www.tse.jus.br/partidos/partidos-politicos/partido-trabalhista-nacional
-23,24,PSL,PARTIDO SOCIAL LIBERAL,2.6.1998,ANTONIO EDUARDO GONÇALVES DE RUEDA,17,http://www.tse.jus.br/partidos/partidos-politicos/partido-social-liberal
-24,25,PRB,PARTIDO REPUBLICANO BRASILEIRO,25.8.2005,EDUARDO BENEDITO LOPES,10,http://www.tse.jus.br/partidos/partidos-politicos/partido-republicano-brasileiro
-25,26,PSOL,PARTIDO SOCIALISMO E LIBERDADE,15.9.2005,RAIMUNDO LUIZ SILVA ARAÚJO,50,http://www.tse.jus.br/partidos/partidos-politicos/partido-socialismo-e-liberdade
-26,27,PR,PARTIDO DA REPÚBLICA,19.12.2006,ANTONIO CARLOS RODRIGUES,22,http://www.tse.jus.br/partidos/partidos-politicos/partido-da-republica
-27,28,PSD,PARTIDO SOCIAL DEMOCRÁTICO,27.9.2011,ALFREDO COTAIT NETO,55,http://www.tse.jus.br/partidos/partidos-politicos/partido-social-democratico
-28,29,PPL,PARTIDO PÁTRIA LIVRE,4.10.2011,SÉRGIO RUBENS DE ARAÚJO TORRES,54,http://www.tse.jus.br/partidos/partidos-politicos/partido-patria-livre-ppl
-29,30,PEN,PARTIDO ECOLÓGICO NACIONAL,19.6.2012,ADILSON BARROSO OLIVEIRA,51,http://www.tse.jus.br/partidos/partidos-politicos/partido-ecologico-nacional
-30,31,PROS,PARTIDO REPUBLICANO DA ORDEM SOCIAL,24.9.2013,EURÍPEDES G.DE MACEDO JÚNIOR,90,http://www.tse.jus.br/partidos/partidos-politicos/partido-republicano-da-ordem-social
-31,32,SD,SOLIDARIEDADE,24.9.2013,PAULO PEREIRA DA SILVA,77,http://www.tse.jus.br/partidos/partidos-politicos/solidariedade
-32,33,NOVO,PARTIDO NOVO,15.9.2015,JOÃO DIONÍSIO FILGUEIRA B. AMOÊDO,30,http://www.tse.jus.br/partidos/partidos-politicos/partido-novo
-33,34,REDE,REDE SUSTENTABILIDADE,22.9.2015,JOSÉ GUSTAVO FÁVARO BARBOSA SILVA,18,http://www.tse.jus.br/partidos/partidos-politicos/rede
-34,35,PMB,PARTIDO DA MULHER BRASILEIRA,29.9.2015,SUÊD HAIDAR NOGUEIRA,35,http://www.tse.jus.br/partidos/partidos-politicos/partido-da-mulher-brasileira
+,SIGLA,NOME,DEFERIMENTO,PRES. NACIONAL ,Nº DA LEGENDA,tseurl,telefones,fax,cep,email
+0,PMDB,PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO,30.6.1981,ROMERO JUCÁ,15,http://www.tse.jus.br/partidos/partidos-politicos/partido-do-movimento-democratico-brasileiro," (61) 2192 9171, (61) 2192 9365", (61) 2192 9336, 71.630-275,[u'diretorionacional.pmdb@uol.com.br']
+1,PTB,PARTIDO TRABALHISTA BRASILEIRO,3.11.1981,ROBERTO JEFFERSON MONTEIRO FRANCISCO,14,http://www.tse.jus.br/partidos/partidos-politicos/partido-trabalhista-brasileiro, (61) 2101.1414, (61) 2101 1400, 70730-521,"[u'ptb@ptb.org.br', u'juridico@ptb.org.br', u'luizgustavo@ptb.org.br']"
+2,PDT,PARTIDO DEMOCRÁTICO TRABALHISTA,10.11.1981,CARLOS LUPI,12,http://www.tse.jus.br/partidos/partidos-politicos/partido-democratico-trabalhista, (61) 3224.0791, (61) 3225.4290, 70042-900,[u'secretarianacional@pdt.org.br']
+3,PT,PARTIDO DOS TRABALHADORES,11.2.1982,RUI GOETHE DA COSTA FALCAO,13,http://www.tse.jus.br/partidos/partidos-politicos/partido-dos-trabalhadores, (61) 3213.1313, (61) 3213.1313, 70302-000,[u'presidencia@pt.org.br']
+4,DEM,DEMOCRATAS,11.9.1986,JOSÉ AGRIPINO MAIA,25,http://www.tse.jus.br/partidos/partidos-politicos/democratas, (61) 3311-4305, (61) 3224-1912, 70165-900,[u'democratas25@democratas.org.br']
+5,PCdoB,PARTIDO COMUNISTA DO BRASIL,23.6.1988,LUCIANA BARBOSA DE OLIVEIRA SANTOS,65,http://www.tse.jus.br/partidos/partidos-politicos/partido-comunista-do-brasil, (61) 3328 7794, (61) 3327 3158, 70.702-906,[u'comitecentral@pcdob.org.br']
+6,PSB,PARTIDO SOCIALISTA BRASILEIRO,1°.7.1988,CARLOS ROBERTO SIQUEIRA DE BARROS,40,http://www.tse.jus.br/partidos/partidos-politicos/partido-socialista-brasileiro, (61) 3327.5196, (61) 3327.6405, 70736-510,[u'psb@psbnacional.org.br']
+7,PSDB,PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA,24.8.1989,AÉCIO NEVES DA CUNHA,45,http://www.tse.jus.br/partidos/partidos-politicos/partido-da-social-democracia-brasileira, (61) 3424.0500, (61) 3424.0515, 70200-670,[u'juridica@psdb.org.br']
+8,PTC,PARTIDO TRABALHISTA CRISTÃO,22.2.1990,DANIEL S. TOURINHO,36,http://www.tse.jus.br/partidos/partidos-politicos/partido-trabalhista-cristao, (61) 3039.6791, (61) 3039.6791, 70.327-900,[u'ptcnacionaldf@gmail.com']
+9,PSC,PARTIDO SOCIAL CRISTÃO,29.3.1990,EVERALDO DIAS PEREIRA,20,http://www.tse.jus.br/partidos/partidos-politicos/partido-social-cristao, (61) 3323.2020, (61) 3323.2020, 70318-900,[u' diretorionacional@psc.org.br']
+10,PMN,PARTIDO DA MOBILIZAÇÃO NACIONAL,25.10.1990,ANTONIO CARLOS BOSCO MASSAROLLO,33,http://www.tse.jus.br/partidos/partidos-politicos/partido-da-mobilizacao-nacional, (61) 3039.8333, (61) 3039.8334, 70322-915,"[u'pmn33@pmn.org.br', u'presidentenacional@pmn.org.br']"
+11,PRP,PARTIDO REPUBLICANO PROGRESSISTA,29.10.1991,OVASCO ROMA ALTIMARI RESENDE,44,http://www.tse.jus.br/partidos/partidos-politicos/partido-republicano-progressista, (61) 3536.5691 -, (61) 3536.5721, 70.300-910,[]
+12,PPS,PARTIDO POPULAR SOCIALISTA,19.3.1992,ROBERTO JOÃO PEREIRA FREIRE,23,http://www.tse.jus.br/partidos/partidos-politicos/partido-popular-socialista, (61) 3218.4123, (61) 3218.4112, 70307-901,"[u'pps23@pps.org.br', u'woberwj@pps.org.br', u'financeiro@pps.org.br']"
+13,PV,PARTIDO VERDE,30.9.1993,JOSÉ LUIZ DE FRANÇA PENNA,43,http://www.tse.jus.br/partidos/partidos-politicos/partido-verde, (61) 3366.1569, (61) 3203-3560, 70.711-905,[u'nacional.pv@gmail.com']
+14,PTdoB,PARTIDO TRABALHISTA DO BRASIL,11.10.1994,LUIS HENRIQUE DE OLIVEIRA RESENDE,70,http://www.tse.jus.br/partidos/partidos-politicos/partido-trabalhista-do-brasil, (61) 3225.7842, (61) 3225.7842, 70.160-900,[u'ptdobnac@yahoo.com.br']
+15,PP,PARTIDO PROGRESSISTA,16.11.1995,CIRO NOGUEIRA LIMA FILHO,11,http://www.tse.jus.br/partidos/partidos-politicos/partido-progressista, (61) 3321.9499, (61) 3322.8622, 70165-900,[u'pp@pp.org.br']
+16,PSTU,PARTIDO SOCIALISTA DOS TRABALHADORES UNIFICADO,19.12.1995,JOSÉ MARIA DE ALMEIDA,16,http://www.tse.jus.br/partidos/partidos-politicos/partido-socialista-dos-trabalhadores-unificado, (61) 3226.1016, (61) 3226.1016 e (11) 5581.5776, 70306-000,[u'pstu@pstu.org.br']
+17,PCB,PARTIDO COMUNISTA BRASILEIRO,9.5.1996,EDMILSON SILVA COSTA*,21,http://www.tse.jus.br/partidos/partidos-politicos/partido-comunista-brasileiro, (61) 3323.2226, (61) 3323.2226, 70393-904,[u'pcb@pcb.org.br']
+18,PRTB,PARTIDO RENOVADOR TRABALHISTA BRASILEIRO,18.2.1997,JOSÉ LEVY FIDELIX DA CRUZ,28,http://www.tse.jus.br/partidos/partidos-politicos/partido-renovador-trabalhista-brasileiro, (61) 3328.6128, (11) 5097.9993 / (11) 5097.9987, 70702-000,[u'prtb@prtb.org.br']
+19,PHS,PARTIDO HUMANISTA DA SOLIDARIEDADE,20.3.1997,EDUARDO MACHADO E SILVA RODRIGUES,31,http://www.tse.jus.br/partidos/partidos-politicos/partido-humanista-da-solidariedade, (61) 3321.3131, (61) 3224.0726, 71.625-280,[]
+20,PSDC,PARTIDO SOCIAL DEMOCRATA CRISTÃO,5.8.1997,JOSÉ MARIA EYMAEL,27,http://www.tse.jus.br/partidos/partidos-politicos/partido-social-democrata-cristao, (61) 3225.1427, (61) 3225.1427, 70304-900,[u'secretaria@psdc.org.br']
+21,PCO,PARTIDO DA CAUSA OPERÁRIA,30.9.1997,RUI COSTA PIMENTA,29,http://www.tse.jus.br/partidos/partidos-politicos/partido-da-causa-operaria, (61) 3366 5383, (61) 3366 5383, 71.680-210,[u'pco@pco.org.br']
+22,PODE,PODEMOS,2.10.1997,RENATA HELLMEISTER DE ABREU,19,http://www.tse.jus.br/partidos/partidos-politicos/partido-trabalhista-nacional, (61) 3368.1323, (61) 3368.1323, 70340-000,[u'ptnbrasil@ptn.org.br']
+23,PSL,PARTIDO SOCIAL LIBERAL,2.6.1998,ANTONIO EDUARDO GONÇALVES DE RUEDA,17,http://www.tse.jus.br/partidos/partidos-politicos/partido-social-liberal, (61) 3322.1721, (61) 3225.1805, 70.702-906,"[u'contato@pslnacional.org.br', u'imprensa@pslnacional.org.br']"
+24,PRB,PARTIDO REPUBLICANO BRASILEIRO,25.8.2005,EDUARDO BENEDITO LOPES,10,http://www.tse.jus.br/partidos/partidos-politicos/partido-republicano-brasileiro, (61) 3366.3986, (61) 3248.2254, 71650-215,"[u'prb.secretario@gmail.com', u'prb.secretarianacional@gmail.com ']"
+25,PSOL,PARTIDO SOCIALISMO E LIBERDADE,15.9.2005,RAIMUNDO LUIZ SILVA ARAÚJO,50,http://www.tse.jus.br/partidos/partidos-politicos/partido-socialismo-e-liberdade, (61) 3963.1750, (61) 3039.6356, 70305-000,[]
+26,PR,PARTIDO DA REPÚBLICA,19.12.2006,ANTONIO CARLOS RODRIGUES,22,http://www.tse.jus.br/partidos/partidos-politicos/partido-da-republica, (61) 3202.9922, (61) 3202.9922, 70.316-102,[u'juridico22pr@gmail.com']
+27,PSD,PARTIDO SOCIAL DEMOCRÁTICO,27.9.2011,ALFREDO COTAIT NETO,55,http://www.tse.jus.br/partidos/partidos-politicos/partido-social-democratico, (61) 3218.0400, (61) 3218.0428, 70.070-010,[u'contato@psd.org.br']
+28,PPL,PARTIDO PÁTRIA LIVRE,4.10.2011,SÉRGIO RUBENS DE ARAÚJO TORRES,54,http://www.tse.jus.br/partidos/partidos-politicos/partido-patria-livre-ppl, (61) 3225.1396, (61) 3225.1396, 70301-000,[u'secretaria.ppl@ibtv.com.br']
+29,PEN,PARTIDO ECOLÓGICO NACIONAL,19.6.2012,ADILSON BARROSO OLIVEIRA,51,http://www.tse.jus.br/partidos/partidos-politicos/partido-ecologico-nacional, (61) 3326.4555/(61) 8126.5151, (61) 3326.4555, 70702-000,[u'pen@pen51.org.br']
+30,PROS,PARTIDO REPUBLICANO DA ORDEM SOCIAL,24.9.2013,EURÍPEDES G.DE MACEDO JÚNIOR,90,http://www.tse.jus.br/partidos/partidos-politicos/partido-republicano-da-ordem-social, (61) 3253 9090 e (61) 3797 0090, (61) 3253 9090,null,[u'pros@pros.org.br']
+31,SD,SOLIDARIEDADE,24.9.2013,PAULO PEREIRA DA SILVA,77,http://www.tse.jus.br/partidos/partidos-politicos/solidariedade, (61) 3548.2215, (61) 3548.2214, 70.340-000,[u'falecom@solidariedade.org.br']
+32,NOVO,PARTIDO NOVO,15.9.2015,JOÃO DIONÍSIO FILGUEIRA B. AMOÊDO,30,http://www.tse.jus.br/partidos/partidos-politicos/partido-novo, (61) 3512 7000, (61) 3512 7000, 70.340-000,[]
+33,REDE,REDE SUSTENTABILIDADE,22.9.2015,JOSÉ GUSTAVO FÁVARO BARBOSA SILVA,18,http://www.tse.jus.br/partidos/partidos-politicos/rede, (61) 3322 5436, (61),,[]
+34,PMB,PARTIDO DA MULHER BRASILEIRA,29.9.2015,SUÊD HAIDAR NOGUEIRA,35,http://www.tse.jus.br/partidos/partidos-politicos/partido-da-mulher-brasileira, (61) 3224 0035,, 70.393-902,[]
